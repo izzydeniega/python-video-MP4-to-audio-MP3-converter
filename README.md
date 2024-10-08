@@ -56,9 +56,8 @@ This Python script allows you to convert MP4 video files to MP3 audio files usin
 - FFmpeg
 
 ## About the Authors
-
-This script was created by [Your Name/Organization]. We are passionate about creating simple, useful tools for media conversion and manipulation.
 [](https://scontent.fcgy3-1.fna.fbcdn.net/v/t39.30808-6/461803950_1083722689757074_6494730492808758737_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeG8L-XYZBRITmvwxabmotJEtgnGXuEcmlC2CcZe4RyaUJ66fwP9TTbHSGlW8c6OOnDzhPJ1gX2iNWDedCT-vRGx&_nc_ohc=fMP6RhhwEpUQ7kNvgGL4wll&_nc_ht=scontent.fcgy3-1.fna&_nc_gid=AkewAnMpMJQHo6Xbeq1vojO&oh=00_AYCNyDVXdYU1jKCz36i7Vg0qRU0BJzoD0Zf8ejyt4Juctw&oe=670AD74B)
+This script was created by [Your Name/Organization]. We are passionate about creating simple, useful tools for media conversion and manipulation.
 [slay](https://www.facebook.com/izzy.deniega.24)
 ## Disclaimer
 
