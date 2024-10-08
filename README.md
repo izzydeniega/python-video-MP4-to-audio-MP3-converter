@@ -62,4 +62,4 @@ This script was created by [Your Name/Organization]. We are passionate about cre
 [slay](https://www.facebook.com/izzy.deniega.24)
 ## Disclaimer
 
-** This tool is provided for educational purposes only. Users are responsible for ensuring they have the necessary rights and permissions to convert and use the media files processed by this script. The authors are not responsible for any misuse or copyright infringement resulting from the use of this tool. **
+**This tool is provided for educational purposes only. Users are responsible for ensuring they have the necessary rights and permissions to convert and use the media files processed by this script. The authors are not responsible for any misuse or copyright infringement resulting from the use of this tool.**
